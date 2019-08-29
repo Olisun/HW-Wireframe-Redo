@@ -1,12 +1,10 @@
 # HW-Wireframe-Redo
 
-# HW-Wireframe
-
 ## Page preview (Mine): 
-![](img/HW-Wireframe.png)
+![](images/My-Final.png)
 
 ## Page preview (Mockup from Class): 
-![](img/Class-Mockup.png)
+![](images/Class-Mockup.png)
 
 ## About the project:
   * I remade the HW-Wireframe using floats and clearfix. No grids.
@@ -53,4 +51,5 @@
 
 I basically trashed the old html and css files and started from scratch. After reviewing class notes on floats, positioning, clearfix and the box-model, I created the required elements and associated classes. I also made id's taregeting the text so I could position the text accordingly.
 
+The width of the container (same width as header, nav and footer) is 960px. The width of section is 495px matching specs.
 
